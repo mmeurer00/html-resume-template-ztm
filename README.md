@@ -33,7 +33,7 @@ user@Users-MacBook_Air projects % git clone [paste link]
 5. Navigate to the html-resume-template-ztm file, and open the template.
 
 ```
-user@Users-MacBook_Air html-portfolio-template-ztm % open index.html
+user@Users-MacBook_Air html-resume-template-ztm % open resume.html
 ```
 
 6. Start coding!
