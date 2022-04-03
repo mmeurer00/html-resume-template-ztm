@@ -43,9 +43,9 @@ user@Users-MacBook_Air html-portfolio-template-ztm % open index.html
 Bug reports and pull requests are welcome on GitHub at https://github.com/mmeurer00/html-resume-template-ztm. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the Contributor Covenant code of conduct.
 
 License 🔗
-[MIT](/LICENSE)
 
-[ZTM]()
+- [MIT](/LICENSE)
+- [ZTM]()
 
 ### Code of Conduct ✌
 
